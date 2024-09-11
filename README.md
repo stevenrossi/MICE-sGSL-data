@@ -1,6 +1,6 @@
 # Data underlying model of grey seal/cod/herring dynamics in the Southern Gulf of St. Lawrence (sGSL)
 
-Rossi, S.P., Cox, S.P., Benoît, H.P. 2024. Absence of predator control increases cod extirpation risk in a Northwest Atlantic ecosystem: inference from multispecies modelling. *Marine Ecology Progress Series*.
+Rossi, S.P., Cox, S.P., Benoît, H.P. 2024. Absence of predator control increases cod extirpation risk in a Northwest Atlantic ecosystem: inference from multispecies modelling. *Marine Ecology Progress Series*. https://doi.org/10.3354/meps14674
 
 Preprint: https://doi.org/10.48550/arXiv.2311.06521
 
